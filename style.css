@@ -73,8 +73,8 @@ body{
   	background: url("img/overlay.png");
   	height: 100%;
   	background-size: 100% 100%;
-  	/*background-size:cover;*/
   	/*background-position: */
+  	
 }
 .overlay2{
 	position: absolute;
@@ -84,7 +84,7 @@ body{
   	height: 100%;
   	/*background-size:cover;*/
   	background-size: 100% 385.5%;
-  	opacity: 0.8;
+  	
 }
 .line{
 	height: 1px;
@@ -232,4 +232,7 @@ body{
 }
 .mid2 p span{
 	color:#e54b7c;
+}
+.con{
+	display:none;
 }

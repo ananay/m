@@ -12,11 +12,13 @@
 	<div class="panel home">
 		<div class="overlay2"></div>
 		<div class="overlay"></div>
+		<div class="con">
 		<div class="line" style="width:70px;"></div>
 		<br />
 		<p class="intro_text">A sweet, new take on Android.<br />Crispier than ever, it's the sweetest candy you can munch on.</p>
 		<h1 class="intro">Introducing <br />Android M</h1>
 		<div class="discover">Discover More</div>
+		</div>
 	</div>
 	<center>
 	<div class="mid">
