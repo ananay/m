@@ -6,7 +6,7 @@
 	<script type="text/javascript" src="jquery.js"></script>
 	<script type="text/javascript" src="script.js"></script>
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
 </head>
 <body>
 	<div class="panel home">
@@ -28,7 +28,7 @@
 	<br />
 	<br />
 	<div class="panel smart">
-		<h1>The smarts of Android <br /> On Screens big & small</h1>
+		<h1>The smarts of Android <br /> On Screens <span>big</span> & <span>small</span></h1>
 		<br />
 		<br />
 		<br />
@@ -46,12 +46,29 @@ Android powers your watch, your TV and even your car.</p>
 		<br />
 		<br />
 		<br />
+		<!-- <br /> -->
 		<br />
-		<br />
-		<br />
-		<br />
+		<!-- <br /> -->
+		<!-- <br /> -->
 		<br />
 	</div>
 	</center>
+	<div class="panel sticks">
+		<div class="wrap">
+			<h1>The Android Story</h1>
+			<br />
+			<br />
+			<div class="line3"></div>
+			<p>Android is the operating system that powers more than one billion smartphones and tablets. Since these devices make our lives so sweet, each Android version is named after a desert. <br /><br /> Whether it's getting directions or even slicing virtual fruit, each Android release makes something new possible.</p>
+		</div>
+	</div>
+	<div class="mid2">
+	<center>
+		
+		<p>Smart, simple and truly yours. <br />
+<span>Android Munch</span> comes with a polished design,<br />
+improved performance and new features.</p>
+	</center>
+	</div>
 </body>
 </html>
