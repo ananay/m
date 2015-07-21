@@ -135,9 +135,16 @@ body{
 	opacity: 1;
 }
 .mid{
+	position: relative;
+	top:-40px;/*will be changed on scroll*/
+	opacity:0;/*will be changed on scroll*/
 	padding:50px;
 	width:500px;
 	text-align: center;
+	-webkit-transition: all 0.45s;
+	-moz-transition: all 0.45s;
+	-ms-transition: all 0.45s;
+	transition: all 0.45s;
 }
 .mid p{
 	font-family: "dj";
