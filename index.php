@@ -60,7 +60,7 @@ Android powers your watch, your TV and even your car.</p>
 			<h1>The Android Story</h1>
 			<br />
 			<br />
-			<div class="line3"></div>
+			<div class="line4"></div>
 			<p>Android is the operating system that powers more than one billion smartphones and tablets. Since these devices make our lives so sweet, each Android version is named after a desert. <br /><br /> Whether it's getting directions or even slicing virtual fruit, each Android release makes something new possible.</p>
 		</div>
 	</div>
